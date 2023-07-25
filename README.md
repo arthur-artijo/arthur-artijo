@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 <!--
 **arthur-artijo/arthur-artijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![portrait](img/MonPortrait.jpg)
+
 #### KABAZA Arthur
 ---
 ##### Web Developpeur
 - 🌱je suis actuellement en formation chez sirius  
   
 ✌ le programme en cours Git/Github , Javascript, HTML/CSS
-- 📫 c'est possible de parler  ...
+  
 - 😄 les cours sont amusants
